@@ -1,0 +1,15 @@
+[
+  {
+    "sshserver": "IP1",
+    "username": "username1"
+  },
+  {
+    "sshserver": "IP2",
+    "username": "username2"
+  },
+  {
+    "sshserver": "IP3",
+    "username": "username3"
+  }
+]
+
